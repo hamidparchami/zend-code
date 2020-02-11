@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-code",
+    "name": "hamidparchami/zend-code",
     "description": "Extensions to the PHP Reflection API, static code scanning, and code generation",
     "license": "BSD-3-Clause",
     "keywords": [
