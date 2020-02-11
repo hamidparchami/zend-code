@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-code",
+    "name": "hamidparchami/zend-code",
     "description": "provides facilities to generate arbitrary code using an object oriented interface",
     "license": "BSD-3-Clause",
     "keywords": [
